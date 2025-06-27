@@ -1,0 +1,1 @@
+# Osmanl-ca-T-rk-e-Kelime-renme-Uygulamas-

@@ -1,0 +1,142 @@
+[
+  {
+    "ottoman": "مكتب",
+    "pronunciation": "mekteb",
+    "turkish": "okul, mektep",
+    "example": "Çocuklar mektebe gidiyorlar.",
+    "category": "eğitim"
+  },
+  {
+    "ottoman": "علم",
+    "pronunciation": "ilim",
+    "turkish": "bilim, ilim",
+    "example": "İlim tahsil etmek farzdır.",
+    "category": "eğitim"
+  },
+  {
+    "ottoman": "دفتر",
+    "pronunciation": "defter",
+    "turkish": "defter, kitap",
+    "example": "Deftere yazıları yazdı.",
+    "category": "eğitim"
+  },
+  {
+    "ottoman": "قلم",
+    "pronunciation": "kalem",
+    "turkish": "kalem",
+    "example": "Güzel yazı yazmak için iyi kalem gerekir.",
+    "category": "eğitim"
+  },
+  {
+    "ottoman": "كتاب",
+    "pronunciation": "kitab",
+    "turkish": "kitap",
+    "example": "Bu kitabı okudum.",
+    "category": "eğitim"
+  },
+  {
+    "ottoman": "خانه",
+    "pronunciation": "hane",
+    "turkish": "ev, hane",
+    "example": "Güzel bir hanede oturuyoruz.",
+    "category": "ev"
+  },
+  {
+    "ottoman": "باغ",
+    "pronunciation": "bağ",
+    "turkish": "bahçe, bağ",
+    "example": "Bağda üzümler olgunlaştı.",
+    "category": "ev"
+  },
+  {
+    "ottoman": "آب",
+    "pronunciation": "ab",
+    "turkish": "su",
+    "example": "Temiz su içmek sağlıklıdır.",
+    "category": "doğa"
+  },
+  {
+    "ottoman": "نان",
+    "pronunciation": "nan",
+    "turkish": "ekmek",
+    "example": "Taze ekmek çok lezzetlidir.",
+    "category": "yiyecek"
+  },
+  {
+    "ottoman": "شهر",
+    "pronunciation": "şehir",
+    "turkish": "şehir",
+    "example": "Bu şehir çok güzeldir.",
+    "category": "coğrafya"
+  },
+  {
+    "ottoman": "دولت",
+    "pronunciation": "devlet",
+    "turkish": "devlet",
+    "example": "Devlet milletin hizmetindedir.",
+    "category": "siyaset"
+  },
+  {
+    "ottoman": "ملك",
+    "pronunciation": "melik",
+    "turkish": "kral, hükümdar",
+    "example": "Adil melik halkını korur.",
+    "category": "siyaset"
+  },
+  {
+    "ottoman": "تاجر",
+    "pronunciation": "tacir",
+    "turkish": "tüccar",
+    "example": "Dürüst tacir her zaman kazançlıdır.",
+    "category": "ticaret"
+  },
+  {
+    "ottoman": "بازار",
+    "pronunciation": "pazar",
+    "turkish": "pazar, çarşı",
+    "example": "Pazarda taze meyve aldık.",
+    "category": "ticaret"
+  },
+  {
+    "ottoman": "آخور",
+    "pronunciation": "ahır",
+    "turkish": "ahır",
+    "example": "Atlar ahırda dinleniyor.",
+    "category": "hayvancılık"
+  },
+  {
+    "ottoman": "اسب",
+    "pronunciation": "at",
+    "turkish": "at",
+    "example": "Beyaz at çok güzeldir.",
+    "category": "hayvan"
+  },
+  {
+    "ottoman": "گل",
+    "pronunciation": "gül",
+    "turkish": "gül, çiçek",
+    "example": "Bahçede güller açmış.",
+    "category": "bitki"
+  },
+  {
+    "ottoman": "آفتاب",
+    "pronunciation": "aftab",
+    "turkish": "güneş",
+    "example": "Güneş doğudan doğar.",
+    "category": "doğa"
+  },
+  {
+    "ottoman": "ماه",
+    "pronunciation": "mah",
+    "turkish": "ay",
+    "example": "Dolunay çok parlaktır.",
+    "category": "doğa"
+  },
+  {
+    "ottoman": "ستاره",
+    "pronunciation": "sitare",
+    "turkish": "yıldız",
+    "example": "Geceleri yıldızlar parlar.",
+    "category": "doğa"
+  }
+]
